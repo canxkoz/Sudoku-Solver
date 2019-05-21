@@ -4,7 +4,7 @@
  *=====================
  *
  * Started On - May 15th, 2019
- * Author - Can Köz
+ * Author - Can Koz
  * Objective - Takes in Sudoku puzzles and outputs the solution.
 */
 
